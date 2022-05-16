@@ -1,1 +1,5 @@
-# iLab_sistem_operasi_M6
+# iLab Sistem Operasi
+# Pertemuan 6
+# Abdurrahman 
+# 2KA01
+# 10120005
